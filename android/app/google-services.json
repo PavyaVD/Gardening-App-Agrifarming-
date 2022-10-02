@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "293938577574",
+    "project_id": "learnapp-ceae3",
+    "storage_bucket": "learnapp-ceae3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293938577574:android:a169c7147e6bcf98c9f467",
+        "android_client_info": {
+          "package_name": "com.example.learnapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293938577574-6oj6le23a7bbjifllhkj1n7v988oar5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuleoHadGPfjLNZ9MmeZGFiPSEKOS0zmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293938577574-6oj6le23a7bbjifllhkj1n7v988oar5d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
